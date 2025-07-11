@@ -1,6 +1,6 @@
 # Project Overview: Online Store Sales Analysis
 
-**[Tableau Dashboard](https://public.tableau.com/app/discover)**   
+**[Tableau Dashboard](https://public.tableau.com/app/profile/serhii.kutkovskyi/viz/E-commerce-Sales-Analytics/EXECUTIVESUMMERY?publish=yes)**   
 
 This project presents a comprehensive analysis of an online store's sales data. The primary objective is to extract valuable insights from the raw data to understand sales performance, customer behavior, and the effectiveness of marketing channels.
 
